@@ -2,7 +2,7 @@
 
 ### [Live Site](https://assignment-kawa.netlify.app/)
 
-
+![UI-VIEW](https://www.linkpicture.com/view.php?img=LPic61d6f334074d3459563144)
 
 ## Available Scripts
 
