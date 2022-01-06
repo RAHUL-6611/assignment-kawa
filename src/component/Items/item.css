@@ -1,0 +1,60 @@
+.card{
+    word-wrap: break-word;
+    position: relative;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content:center;
+    line-height:0;
+    padding:10px;
+    margin: 20px;
+    flex-direction: column;
+    box-shadow: 4px 6px 9px 3px rgba(212,211,211,0.89);
+    -webkit-box-shadow: 4px 6px 9px 3px rgba(212,211,211,0.89);
+    -moz-box-shadow: 4px 6px 9px 3px rgba(212,211,211,0.89);
+    background: #fff;
+    border-radius:5px;
+    
+}
+
+
+.card:active{
+    background:#753ebd  ;
+    color: #fff;
+}
+
+.card:active .email{
+    color: rgb(255, 255, 255);
+} 
+
+.card:active .gender{
+    color: rgb(255, 255, 255);
+} 
+
+
+.email{
+    color:#FF4B4B;
+    font-weight: 400;
+    margin-top:8px;
+    max-width:fit-content;
+    word-wrap: break-word;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.gender{
+    color: rgb(145, 145, 145);
+    font-weight: 400;
+    margin-top: 4px;
+    word-wrap: break-word;
+}
+
+h4{
+    margin-top: 10px;
+    word-wrap: break-word;
+}
