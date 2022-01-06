@@ -12,9 +12,9 @@ const Navbar = () => {
             <h2 className="logo">Kawa Space</h2>
 
             <ul className={sidebar ? "sidebarView" : "rightside"}>
-                <li><a href="a" className="product active">Product</a></li>  
-                <li><a href="b" className="download">Download</a></li>  
-                <li><a href="c" className="pricing">Pricing</a></li>  
+                <li><a href="/" className="product active">Product</a></li>  
+                <li><a href="/" className="download">Download</a></li>  
+                <li><a href="/" className="pricing">Pricing</a></li>  
             </ul>
             
             <div 
