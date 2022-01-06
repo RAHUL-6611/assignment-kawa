@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Assignment deployment link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### [Live Site](https://assignment-kawa.netlify.app/)
+
+
 
 ## Available Scripts
 
